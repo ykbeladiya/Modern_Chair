@@ -2,6 +2,10 @@
 
 A modern, interactive product page showcasing the "Telford Kursi" chair with dynamic color variants and product information. This project demonstrates a sleek and responsive web design with interactive features.
 
+## 🔗 Live Demo
+
+Check out the live project: [Modern Chair](https://ykbeladiya.github.io/Modern_Chair/)
+
 ## 🌟 Features
 
 - Interactive color selection with 6 different chair variants
